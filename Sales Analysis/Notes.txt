@@ -1,0 +1,16 @@
+Adding a viz in tooltip 
+https://www.youtube.com/watch?v=Y-sDN20il8E
+
+Hex States
+https://www.youtube.com/watch?v=VCZZNFbKaeo
+
+https://www.sirvizalot.com/2015/11/hex-tile-maps-in-tableau.html
+
+
+
+Filters
+*******
+https://www.youtube.com/watch?v=DVTFvmoUnlE
+
+
+Sales overview dashboard to reflect the most important KPIs at a glance (Total Sales quantity and amount, Total Profit and Profit Ratio) along with further sales details by Region, Customer segment, product category, product subcategory, states and the top 5 products. Each visualization has tooltip viz to provide further details OR filters on the left pane can be used to further drill down the details
